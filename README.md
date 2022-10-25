@@ -1,5 +1,5 @@
-# mac_settings
-MAC settings I prefer
+
+# MAC settings I prefer
 
 
 # mac_settings

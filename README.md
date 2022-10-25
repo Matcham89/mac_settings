@@ -1,10 +1,6 @@
 
 # MAC settings I prefer
 
-
-# mac_settings
-MAC settings I prefer
-
 𝗙𝗮𝘀𝘁𝗲𝗿 𝗗𝗼𝗰𝗸 𝗛𝗶𝗱𝗶𝗻𝗴: 
 
 ```sh
